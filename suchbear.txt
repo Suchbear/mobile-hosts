@@ -1,4 +1,5 @@
 0.0.0.0 folder.appota.cn
+0.0.0.0 bus.multiopen.cn
 0.0.0.0 mto.multiopen.cn
 0.0.0.0 statis.multiopen.cn
 0.0.0.0 tnc3-bjlgy.snssdk.com
